@@ -1,7 +1,8 @@
 import 'dart:collection';
-
 import 'feature_flag_enum.dart';
 import 'feature_flag_helper.dart';
+
+// FeatureFlag
 
 class FeatureFlag {
   bool? addPeopleEnabled;
